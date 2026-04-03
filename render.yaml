@@ -1,0 +1,4 @@
+# En PowerShell, dentro de tu carpeta
+cd C:\Users\User\nfl-parley-predictor
+New-Item render.yaml
+notepad render.yaml
